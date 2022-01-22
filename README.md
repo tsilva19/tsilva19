@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsilva19" alt="tsilva19" /></a> </p>
 
+- 🌱 I like to practice **PYTHON**
 - 🌱 I like to practice **NodeJS**
 - 🌱 I like to practice **Javascript**
 - 🌱 I like to practice **HTML**
